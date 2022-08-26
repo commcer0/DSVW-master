@@ -94,6 +94,6 @@ if __name__ == "__main__":
         pass
     except Exception as ex:
         print("[x] exception occurred ('%s')" % ex)
-        print("Testing...")
+        print("Testing again...")
     finally:
         os._exit(0)
